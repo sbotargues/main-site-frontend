@@ -6,7 +6,4 @@
 
 <script setup>
 import TaskApp from "taskManagerFrontend/TaskApp";
-
-// Verifica si el componente llega correctamente
-console.log("TaskApp:", TaskApp);
 </script>
