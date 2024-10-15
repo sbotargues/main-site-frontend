@@ -6,4 +6,5 @@
 
 <script setup>
 import TaskApp from "taskManagerFrontend/TaskApp";
+console.log('TaskApp is:', TaskApp);
 </script>
