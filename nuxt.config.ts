@@ -13,7 +13,6 @@ export default defineNuxtConfig({
           // Puedes también hacer referencia a un URL en producción:
           // "taskManagerFrontend": "https://task-manager-frontend-nu-bice.vercel.app/_nuxt/remoteEntry.js"
         },
-        shared: ["vue"],
       }),
     ],
   },
